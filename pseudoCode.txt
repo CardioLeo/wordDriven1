@@ -16,3 +16,19 @@ input, light, dark; if light, []; if dark, [].
 asks: "what are you going to do next?"
 
 description of events, choice.
+
+---
+
+take 2; [rough format for how one round of ask/input pattern goes]
+
+asks: "Are you up or are you down?"
+
+waits for input, asking: "[Answer 'up' or 'down' by pressing the 'u' or 'd' keys]"
+
+input listener: if u, let person var direction = "up"; if d, let person var direction = "down";
+
+output answer as test;
+
+failing output would be non-d/u, which can be tested first with just one char as most basic;
+
+---
