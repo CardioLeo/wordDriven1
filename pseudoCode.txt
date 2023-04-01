@@ -1,0 +1,6 @@
+# Author: William Z Chadwick
+# Date Created: 03/31/2023
+# Date Modified: 03/31/2023
+# Description: A place to work out the initial pseudocode for my personal text-based adventure game.
+
+---
