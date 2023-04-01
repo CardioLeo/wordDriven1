@@ -4,3 +4,15 @@
 # Description: A place to work out the initial pseudocode for my personal text-based adventure game.
 
 ---
+
+asks: "Are you up or are you down?"
+
+input, up, down; if up, []; if down, [].
+
+asks: "is it light there? or still dark?"
+
+input, light, dark; if light, []; if dark, [].
+
+asks: "what are you going to do next?"
+
+description of events, choice.
